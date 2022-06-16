@@ -1,4 +1,4 @@
-img {
+img, h1 {
  width: 50%;
  display: table;
  place-content: center;
