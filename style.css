@@ -1,5 +1,7 @@
-* {
- padding: 50px;
- margin: 50px;
- color: red; 
+img {
+ width: 50%;
+ display: table;
+ place-content: center;
+ margin: auto;
+ 
 }
